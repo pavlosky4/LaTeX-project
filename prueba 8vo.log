@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.2.25)  18 APR 2021 13:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.2.25)  26 APR 2021 03:36
 entering extended mode
 **"./prueba 8vo.tex"
 (prueba 8vo.tex
@@ -526,6 +526,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 94--95
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 100--101
 
  []
@@ -537,6 +542,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 101--102
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
 
  []
 
@@ -655,21 +665,22 @@ LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 5067 strings out of 479334
- 70340 string characters out of 2866960
- 408302 words of memory out of 3000000
- 22470 multiletter control sequences out of 15000+200000
- 408422 words of font info for 46 fonts, out of 3000000 for 9000
+ 5070 strings out of 479334
+ 70384 string characters out of 2866960
+ 406302 words of memory out of 3000000
+ 22472 multiletter control sequences out of 15000+200000
+ 408759 words of font info for 47 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,6n,74p,246b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Progr
-am Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmti12.pfb>
-Output written on "prueba 8vo.pdf" (3 pages, 107432 bytes).
+ <C:\Users\pavlo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcr
+m1200.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:
+/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program File
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmti12.pfb>
+Output written on "prueba 8vo.pdf" (3 pages, 108215 bytes).
 PDF statistics:
- 35 PDF objects out of 1000 (max. 8388607)
+ 40 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
