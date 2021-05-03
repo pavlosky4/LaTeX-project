@@ -1,0 +1,92 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage[spanish,es-tabla]{babel}
+\usepackage{graphicx}
+\usepackage{amssymb, amsmath, amsbsy} 
+\textwidth 16cm
+\hoffset -2cm
+\providecommand{\abs}[1]{\lvert#1\rvert}
+
+
+\title{\textbf{Tarea 1} \\Macroeconomía II}
+\author{Pablo Herrera -Tomás Mendoza - Pablo Ramírez}
+\date{Mayo 2021}
+\begin{document}
+	
+	\maketitle
+	
+
+	
+		
+
+	
+	Dado que  $U(c_t, l_t)=\gamma \ln c_t+\eta(1-e_tl_t)-\dfrac{\theta}{2}(e_t-1)^2 $ entonces resolvemos el siguiente problema:
+		\begin{equation}
+		\begin{array}{rrclcl}
+			\displaystyle \max_{\{c_t,l_t\}_{t=0}^\infty} & \multicolumn{3}{l}{\gamma \ln c_t+\eta(1-e_tl_t)-\dfrac{\theta}{2}(e_t-1)^2}\nonumber\\
+			
+		\end{array}
+	\end{equation} 
+	
+	\begin{equation}
+			\begin{array}{rrclcl}
+			\displaystyle st: & \multicolumn{3}{l}{c_{t}+i_{t}=y_{t}}\nonumber\\
+					\end{array}
+	\end{equation}
+			\begin{equation}
+	y_t=A_t k_t^\alpha (e_tl_t)^{1-\alpha} \nonumber
+		\end{equation}
+	\begin{equation}
+	k_{t+1}=(1-\delta)k_{t}+\xi_t i_{t}\nonumber
+	\end{equation}
+		\begin{equation}
+			\gamma, \eta, \theta >0\nonumber
+		\end{equation} \\
+	
+	
+	
+ \newpage Las ecuaciones resultantes del proceso de optimización son las siguientes:	
+ 
+
+
+	\begin{equation}
+		E_{t-1}[\dfrac{\gamma}{c_t}(1-\alpha)\dfrac{y_t}{e_t l_t}-\eta]=0
+	\end{equation}\\
+
+	\begin{equation}
+\dfrac{\gamma}{c_t}(1-\alpha)\dfrac{y_t}{e_t l_t}-\eta=\dfrac{\theta(e_t-1)}{l_t}
+		\end{equation} \\
+	
+	\begin{equation}
+	\dfrac{1}{c_t\xi_t}=\beta[\alpha\dfrac{\gamma}{c_{t+1}}\dfrac{y_{t+1}}{k_{t+1}}+(1-\delta) \dfrac{\gamma}{c_{t+1}} \dfrac{1}{xi_{t+1}}
+	\end{equation}\\
+
+\begin{equation}
+	y_t=c_t+i_t
+\end{equation}\\
+
+\begin{equation}
+	k_{t+1}=(1-\delta)k_t+\xi_ti_t
+\end{equation}\\
+
+\begin{equation}
+	y_t=A_t k_t^\alpha (e_tl_t)^{1-\alpha}
+\end{equation}\\
+
+\begin{equation}
+	\ln A_t=\rho \ln A_{t-1}+u_1
+\end{equation}\\
+
+\begin{equation}
+		\ln \xi_t=\rho_\xi \ln \xi_{t-1}+u_2
+\end{equation}\\
+
+\begin{equation}
+	u_1 \sim N(o,\sigma_A^2) \nonumber
+\end{equation}\\
+
+\begin{equation}
+	u_2 \sim N(o,\sigma_\xi^2) \nonumber
+\end{equation}\\
+\end{document}
