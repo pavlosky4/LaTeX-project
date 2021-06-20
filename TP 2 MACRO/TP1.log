@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.2.25)  15 MAY 2021 17:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.2.25)  16 JUN 2021 00:19
 entering extended mode
 **./TP1.tex
 (TP1.tex
@@ -395,95 +395,44 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 20.
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-
-! LaTeX Error: File `a_1' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.74 	\includegraphics[width=0.5\linewidth]{a_1}
-                                                
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[1
+<a_1.png, id=1, 297.36093pt x 165.61874pt>
+File: a_1.png Graphic file (type png)
+<use a_1.png>
+Package pdftex.def Info: a_1.png  used on input line 74.
+(pdftex.def)             Requested size: 209.12683pt x 116.47565pt.
+ [1
 
 {C:/Users/pavlo/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+<y_2.png, id=17, 264.23718pt x 151.3153pt>
+File: y_2.png Graphic file (type png)
+<use y_2.png>
+Package pdftex.def Info: y_2.png  used on input line 81.
+(pdftex.def)             Requested size: 167.2989pt x 95.80246pt.
+ [2 <./a_1.png> <./y_2.png>]
+<MicrosoftTeams-image (6).png, id=23, 274.02374pt x 154.32657pt>
+File: MicrosoftTeams-image (6).png Graphic file (type png)
+<use MicrosoftTeams-image (6).png>
+Package pdftex.def Info: MicrosoftTeams-image (6).png  used on input line 90.
+(pdftex.def)             Requested size: 209.12683pt x 117.77919pt.
+<MicrosoftTeams-image (8).png, id=24, 290.58563pt x 158.09062pt>
+File: MicrosoftTeams-image (8).png Graphic file (type png)
+<use MicrosoftTeams-image (8).png>
+Package pdftex.def Info: MicrosoftTeams-image (8).png  used on input line 95.
+(pdftex.def)             Requested size: 209.12683pt x 113.77449pt.
+<MicrosoftTeams-image (7).png, id=25, 279.29344pt x 154.32657pt>
+File: MicrosoftTeams-image (7).png Graphic file (type png)
+<use MicrosoftTeams-image (7).png>
+Package pdftex.def Info: MicrosoftTeams-image (7).png  used on input line 104.
+(pdftex.def)             Requested size: 209.12683pt x 115.5586pt.
+ [3 <./MicrosoftTeams-image (6).png> <./MicrosoftTeams-image (8).png> <./Micros
+oftTeams-image (7).png>]
+<MicrosoftTeams-image (10).png, id=32, 569.12625pt x 176.15813pt>
+File: MicrosoftTeams-image (10).png Graphic file (type png)
+<use MicrosoftTeams-image (10).png>
+Package pdftex.def Info: MicrosoftTeams-image (10).png  used on input line 113.
 
-! LaTeX Error: File `y_2' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.81 	\includegraphics[width=0.4\linewidth]{y_2}
-                                                
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[2]
-
-! LaTeX Error: File `"MicrosoftTeams-image (6)\end {quoting} not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.90 ...0.5\linewidth]{"MicrosoftTeams-image (6)"}
-                                                  
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `"MicrosoftTeams-image (8)\end {quoting} not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.95 ...0.5\linewidth]{"MicrosoftTeams-image (8)"}
-                                                  
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `"MicrosoftTeams-image (7)\end {quoting} not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.104 ....5\linewidth]{"MicrosoftTeams-image (7)"}
-                                                  
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `"MicrosoftTeams-image (10)\end {quoting} not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.113 ...9\linewidth]{"MicrosoftTeams-image (10)"}
-                                                  
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-<shockinv.png, id=18, 793.16325pt x 404.10976pt>
+(pdftex.def)             Requested size: 376.42575pt x 116.51738pt.
+<shockinv.png, id=33, 793.16325pt x 404.10976pt>
 File: shockinv.png Graphic file (type png)
 <use shockinv.png>
 Package pdftex.def Info: shockinv.png  used on input line 122.
@@ -493,11 +442,8 @@ Overfull \hbox (83.64944pt too wide) in paragraph at lines 122--124
  [][] 
  []
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[3] [4 <./shockinv.png>] [5]
-<shockgasto.png, id=31, 787.743pt x 409.53pt>
+[4 <./MicrosoftTeams-image (10).png> <./shockinv.png>] [5]
+<shockgasto.png, id=43, 787.743pt x 409.53pt>
 File: shockgasto.png Graphic file (type png)
 <use shockgasto.png>
 Package pdftex.def Info: shockgasto.png  used on input line 202.
@@ -507,7 +453,7 @@ Overfull \hbox (83.64944pt too wide) in paragraph at lines 202--204
  [][] 
  []
 
-<schocktec2.png, id=32, 844.3545pt x 441.44925pt>
+<schocktec2.png, id=44, 844.3545pt x 441.44925pt>
 File: schocktec2.png Graphic file (type png)
 <use schocktec2.png>
 Package pdftex.def Info: schocktec2.png  used on input line 207.
@@ -530,7 +476,7 @@ m/it/10 [][][]\OT1/cmr/m/n/10 ([])[]([] \OMS/cmsy/m/n/10   \OT1/cmr/m/n/10 1
  []
 
 [7 <./schocktec2.png>]
-<shockprefer.png, id=42, 832.3095pt x 437.83575pt>
+<shockprefer.png, id=54, 832.3095pt x 437.83575pt>
 File: shockprefer.png Graphic file (type png)
 <use shockprefer.png>
 Package pdftex.def Info: shockprefer.png  used on input line 248.
@@ -541,7 +487,7 @@ Overfull \hbox (83.64944pt too wide) in paragraph at lines 248--250
  []
 
 [8 <./shockprefer.png>]
-<shocktec.png, id=47, 863.02425pt x 464.937pt>
+<shocktec.png, id=59, 863.02425pt x 464.937pt>
 File: shocktec.png Graphic file (type png)
 <use shocktec.png>
 Package pdftex.def Info: shocktec.png  used on input line 261.
@@ -560,10 +506,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5236 strings out of 479334
- 73296 string characters out of 2866960
+ 5176 strings out of 479334
+ 72328 string characters out of 2866960
  401255 words of memory out of 3000000
- 22621 multiletter control sequences out of 15000+200000
+ 22573 multiletter control sequences out of 15000+200000
  411293 words of font info for 58 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,6n,74p,536b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -577,9 +523,9 @@ ogram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/M
 iKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/ty
 pe1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/a
 msfonts/cm/cmsy7.pfb>
-Output written on TP1.pdf (9 pages, 1007329 bytes).
+Output written on TP1.pdf (9 pages, 1100755 bytes).
 PDF statistics:
- 87 PDF objects out of 1000 (max. 8388607)
+ 99 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
